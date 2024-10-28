@@ -1,0 +1,55 @@
+Dominik Livakovic,Kaleci,28,Fenerbahçe
+Irfan Can Egribayat,Kaleci,25,Fenerbahçe
+Rodrigo Becão,Defans,27,Fenerbahçe
+Alexander Djiku,Defans,29,Fenerbahçe
+Luan Peres,Defans,29,Fenerbahçe 
+Samet Akaydin,Defans,29,Fenerbahçe
+Serdar Aziz,Defans,32,Fenerbahçe
+Jayden Oosterwolde,Defans,22,Fenerbahçe
+Ferdi Kadioglu,Defans,23,Fenerbahçe
+Bright Osayi-Samuel,Defans,25,Fenerbahçe
+Mert Müldür,Defans,24,Fenerbahçe
+Ismail Yüksek,Orta Saha,24,Fenerbahçe
+Fred,Orta Saha,30,Fenerbahçe
+Miha Zajc,Orta Saha,29,Fenerbahçe
+Mert Hakan Yandas,Orta Saha,29,Fenerbahçe
+Sebastian Szymanski,Orta Saha,24,Fenerbahçe
+Ryan Kent,Orta Saha,26,Fenerbahçe
+Dusan Tadic,Orta Saha,34,Fenerbahçe
+Cengiz Ünder,Orta Saha,26,Fenerbahçe
+Irfan Can Kahveci,Orta Saha,28,Fenerbahçe
+Emre Mor,Orta Saha,26,Fenerbahçe
+Burak Kapacak,Orta Saha,23,Fenerbahçe
+Michy Batshuayi,Forvet,29,Fenerbahçe
+Joshua King,Forvet,31,Fenerbahçe
+Edin Dzeko,Forvet,37,Fenerbahçe
+Umut Nayir,Forvet,30,Fenerbahçe
+Günay Güvenc,Kaleci,32,Galatasaray
+Fernando Muslera,Kaleci,37,Galatasaray
+Victor Nelsson,Defans,24,Galatasaray
+Abdülkerim Bardakci,Defans,28,Galatasaray
+Kaan Ayhan,Defans,28,Galatasaray
+Christian Luyindama,Defans,29,Galatasaray
+Alpaslan Öztürk,Defans,30,Galatasaray
+Angeliño,Defans,26,Galatasaray
+Sacha Boey,Defans,22,Galatasaray
+Léo Dubois,Defans,28,Galatasaray
+Lucas Torreira,Orta Saha,27,Galatasaray
+Sérgio Oliveira,Orta Saha,31,Galatasaray
+Kerem Demirbay,Orta Saha,30,Galatasaray
+Fredrik Midtsjö,Orta Saha,30,Galatasaray
+Berkan Kutlu,Orta Saha,25,Galatasaray
+Hakim Ziyech,Orta Saha,30,Galatasaray
+Wilfried Zaha,Orta Saha,30,Galatasaray
+Kerem Aktürkoglu,Orta Saha,24,Galatasaray
+Tetê,Orta Saha,23,Galatasaray
+Yunus Akgün,Orta Saha,23,Galatasaray
+Baris Yilmaz,Orta Saha,23,Galatasaray
+Dries Mertens,Forvet,36,Galatasaray
+Mauro Icardi,Forvet,30,Galatasaray
+Cédric Bakambu,Forvet,32,Galatasaray
+Halil Dervisoglu,Forvet,23,Galatasaray
+Mustafa,Forvet,34,Fenerbahçe
+kurt,Forvet,23,Galatasaray
+dzeko,forvet,38,fenerbahçe
+dzeko,forvet,37,fenerbahçe
